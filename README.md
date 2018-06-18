@@ -1,2 +1,2 @@
 # ColaUSB
-Aplicacion para pide cola de la Universidad Simon Bolivar de uso no oficial
+Aplicaci&oacute;n para pide cola de la Universidad Sim&oacute;n Bolivar de uso no oficial.
